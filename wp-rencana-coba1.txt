@@ -1,3 +1,4 @@
 rencana coba1 
-- membuat sesuatu 
+- membuat sesuatu apk sesuatu 
+  * mambuat apk mobile tentang sepak bola 
 -membuat apk mobile 
